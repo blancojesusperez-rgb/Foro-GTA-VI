@@ -1,0 +1,6 @@
+{
+  "name": "Foro GTA VI - Leonida & Vice City",
+  "description": "El foro definitivo de GTA VI: mapa interactivo de Leonida, análisis de trailers, filtraciones, teorías, encuestas y debates de la comunidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
